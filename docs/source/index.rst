@@ -9,7 +9,7 @@ Welcome to UCR EE260-002 Spring 2022
 
 Riverside Campus | Alfred M. Boyce Hall | Room 1471
 
-Instructor: Karydis, Konstantinos
+Instructor: Konstantinos Karydis
 
 Email: kkarydis@ece.ucr.edu
 
