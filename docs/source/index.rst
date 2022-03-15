@@ -3,21 +3,32 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to UCR EE260 
+Welcome to UCR EE260-002 Spring 2022 
 =====================================
-Fundations of Robotics!
+11:00 AM - 12:20 PM (Tue, Thu)
+
+Riverside Campus | Alfred M. Boyce Hall | Room 1471
+
+Instructor: Karydis, Konstantinos
+
+Email: kkarydis@ece.ucr.edu
+
+TA: Zhichao Liu
+
+Email: zliu157@ucr.edu
+ 
 ==========================
 
 .. toctree::
    :maxdepth: 2
    :hidden:
 
-   logistics  
+   warmup
 
 
 
 News
 ====
 
-- 09/23/2021: Welcome!
-- 09/23/2021: Please read `logistics <logistics.html>`_.
+- 03/29/2022: Welcome!
+- 03/29/2022: `Warm-Up <warmup.html>`_ is up. 

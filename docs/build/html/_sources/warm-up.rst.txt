@@ -1,0 +1,11 @@
+Warm-Up
+=========
+
+Welcome
+-------
+
+please read `EE144 <https://ucr-ee144.readthedocs.io/en/latest/ros.html>`_ to get familiar with Linux and ROS.
+
+
+
+

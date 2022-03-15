@@ -141,9 +141,6 @@ Lab Safety
 #. Please place your robot in the following way to prevent it 
    from accidentally dropping down to the ground.
 
-.. image:: pics/safety.jpg
-    :width: 60%
-    :align: center
 
 .. _symptom survey: https://ucriverside.az1.qualtrics.com/jfe/form/SV_cOB8gBU6OVulQax
 
